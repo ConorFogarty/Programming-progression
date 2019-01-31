@@ -1,2 +1,1 @@
-# Programming-progression
-This repository contains some code I was working on earlier this week
+This repository contains code that I have worked on during my time in NUI Galway. It is to track my programming progression.
